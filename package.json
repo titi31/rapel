@@ -11,7 +11,7 @@
     "react-bootstrap": "^1.2.2",
     "react-dom": "^16.9.0",
     "react-drag-drop-container": "^6.1.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "typescript": "3.6.3"
   },
   "scripts": {
